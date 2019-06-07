@@ -2,4 +2,4 @@ var katz_Deli = []
 
 
 function takeANumber(katzDeli, name) {
-  katzDeli.push(`${name})
+  katzDeli.push(`${name}`)
