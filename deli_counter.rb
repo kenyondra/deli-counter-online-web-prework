@@ -12,3 +12,5 @@ function nowServing(katzDeli) {
     i++;
   }
   if (katzDeli.length === 0) {
+    return 
+  }
