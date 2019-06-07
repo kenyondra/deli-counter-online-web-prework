@@ -1,4 +1,4 @@
 var katz_Deli = []
 
 
-function take 
+function takeANumber
