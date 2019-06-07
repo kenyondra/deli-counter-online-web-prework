@@ -11,4 +11,4 @@ function nowServing(katzDeli) {
   while (i < katzDeli.length) {
     i++;
   }
-  if (katzDeli.length)
+  if (katzDeli.length === )
