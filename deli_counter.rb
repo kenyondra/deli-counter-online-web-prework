@@ -1,1 +1,1 @@
-var katz_Deli 
+var katz_Deli = []
