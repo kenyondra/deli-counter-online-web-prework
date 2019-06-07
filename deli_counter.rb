@@ -1,4 +1,4 @@
 var katz_Deli = []
 
 
-function takeANumber(katzDeli, )
+function takeANumber(katzDeli, name)
